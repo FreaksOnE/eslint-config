@@ -1,7 +1,7 @@
 {
 	"name": "@freaksone/eslint-config",
 	"version": "1.0.0",
-	"description": "A shareable ESlint config for JavaScript by FreaksOnE",
+	"description": "A shareable ESlint config for JavaScript",
 	"author": "FreaksOnE <freaksone66@gmail.com> (https://github.com/FreaksOnE)",
 	"license": "MIT",
 	"repository": {

@@ -1,6 +1,6 @@
 # eslint-config
 
-> A shareable ESlint config for JavaScript used by FreaksOnE
+> A shareable ESlint config for JavaScript
 
 ## Install
 
