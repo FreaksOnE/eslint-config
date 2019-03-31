@@ -1,11 +1,11 @@
 # eslint-config
 
-> A shareable ESlint config for JavaScript used at Tonik
+> A shareable ESlint config for JavaScript used by FreaksOnE
 
 ## Install
 
 ```bash
-npm install @tonik/eslint-config --save-dev
+npm install @freaksone/eslint-config --save-dev
 ```
 
 ## Usage
@@ -15,14 +15,14 @@ Shareable configs are designed to work with the `extends` feature of `.eslintrc`
 To use a shareable config, first run this:
 
 ```bash
-npm install --save-dev @tonik/eslint-config eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+npm install --save-dev @freaksone/eslint-config eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 ```
 
 Then, add this to your .eslintrc file:
 
 ```
 {
-  "extends": "@tonik/eslint-config"
+  "extends": "@freaksone/eslint-config"
 }
 ```
 
