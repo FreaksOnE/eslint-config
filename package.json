@@ -1,0 +1,57 @@
+{
+	"name": "@freaksone/eslint-config",
+	"version": "1.0.0",
+	"description": "A shareable ESlint config for JavaScript by FreaksOnE",
+	"author": "FreaksOnE <freaksone66@gmail.com> (https://github.com/FreaksOnE)",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FreaksOnE/eslint-config.git"
+	},
+	"homepage": "https://github.com/FreaksOnE/eslint-config",
+	"bugs": {
+		"url": "https://github.com/FreaksOnE/eslint-config/issues"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"keywords": [
+		"code",
+		"quality",
+		"style",
+		"lint",
+		"linter",
+		"jscs",
+		"jshint",
+		"jslint",
+		"eslint",
+		"validate",
+		"code style",
+		"strict",
+		"check",
+		"checker",
+		"verify",
+		"enforce",
+		"hint"
+	],
+	"devDependencies": {
+		"eslint": "^4.18.0",
+		"eslint-config-standard": "^11.0.0",
+		"eslint-plugin-import": "^2.8.0",
+		"eslint-plugin-node": "^5.2.1",
+		"eslint-plugin-promise": "^3.6.0",
+		"eslint-plugin-standard": "^3.0.1"
+	},
+	"peerDependencies": {
+		"eslint": "^4.18.0",
+		"eslint-config-standard": "^11.0.0",
+		"eslint-plugin-import": "^2.8.0",
+		"eslint-plugin-node": "^5.2.1",
+		"eslint-plugin-promise": "^3.6.0",
+		"eslint-plugin-standard": "^3.0.1"
+	}
+}
